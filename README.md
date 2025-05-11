@@ -1,16 +1,35 @@
-# ldsw_3_5_home_screen
+# LDSW 3.5 Home Screen
 
-A new Flutter project.
+Este proyecto es parte de la actividad 3.5 y muestra una pantalla de inicio diseñada con widgets de layout en Flutter.
 
-## Getting Started
+## Contenido de la pantalla
 
-This project is a starting point for a Flutter application.
+- Imagen de fondo (`Image.asset`)
+- Ícono (`Icons.home`)
+- Nombre de la aplicación
+- Mensaje de bienvenida: `"Hello World"`
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologías utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter 3.29.x
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cómo ejecutar
+
+1. Clona el repositorio:
+
+   ```bash
+   git clone https://github.com/epickatif/ldsw_3_5_home_screen.git
+   cd ldsw_3_5_home_screen
+   ```
+
+2. Ejecuta:
+
+   ```bash
+   flutter pub get
+   flutter run
+   ```
+
+## Estado
+
+Actividad finalizada y funcional.
